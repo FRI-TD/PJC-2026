@@ -1,0 +1,5 @@
+To je primer
+datoteke z besedilom.
+Nekatere vrstice bodo ...
+... malo daljse, druge krajse. Zanima nas pravilen izpis ostevilcenih
+vrstic.
